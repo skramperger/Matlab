@@ -48,7 +48,7 @@ Contributions are welcome! To contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/username/other-repository/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/skramperger/Softwaretechnik/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
