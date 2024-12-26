@@ -17,8 +17,8 @@ To use the scripts in this repository, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
-   cd repositoryname
+   git clone https://github.com/skramperger/Matlab
+   cd Matlab
    ```
 2. **Open the scripts in MATLAB**:
    - Open MATLAB on your computer.
